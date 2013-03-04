@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=pentaho-hadoop-shims-api&amp;ivyXmlPath=ivy.xml&amp;confs=*"/>
+	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=pentaho-hadoop-shims-api&amp;ivyXmlPath=ivy.xml&amp;confs=*&amp;ivySettingsPath=%24%7Bworkspace_loc%3Apentaho-hadoop-shims-api%2Fivysettings.xml%7D&amp;loadSettingsOnDemand=true&amp;propertyFiles=%24%7Bworkspace_loc%3Apentaho-hadoop-shims-api%2Fbuild.properties%7D"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test-src"/>
 	<classpathentry kind="output" path="bin"/>

@@ -6,6 +6,6 @@
 	<classpathentry kind="src" path="src-common"/>
 	<classpathentry kind="src" path="test-src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=pentaho-hadoop-shims-hadoop-20&amp;ivyXmlPath=ivy.xml&amp;confs=*"/>
+	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=pentaho-hadoop-shims-hadoop-20&amp;ivyXmlPath=ivy.xml&amp;confs=*&amp;ivySettingsPath=%24%7Bworkspace_loc%3Apentaho-hadoop-shims-hadoop-20%2Fivysettings.xml%7D&amp;loadSettingsOnDemand=true&amp;propertyFiles=%24%7Bworkspace_loc%3Apentaho-hadoop-shims-hadoop-20%2Fbuild.properties%7D"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
